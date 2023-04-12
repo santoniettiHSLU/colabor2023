@@ -3,12 +3,16 @@
 ## Briefing 
 ## Vorprojekt :computer: :game_die: 
 In der erste Phase (10 Tage) werden wir frühe Computerkunst studieren und diese Werke mit p5.js und Webtechnologien nachbilden, um ästhetische, analytische und technische Kenntnisse zu erwerben. 
-Ihr wählt und untersucht in Gruppen ein Werk und entwerft dann das Kunstwerke von Grund auf neu und entwickelt es in eurer eigenen Form weiter, wobei ihr die Ansätze und Werkzeuge sowie die poetischen und ästhetischen Grundlagen reflektiert. <br/>
-<i>Präsentation 11.5. Morgen </i>
+Ihr wählt und untersucht in Gruppen ein Werk und entwerft dieses dann von Grund auf neu und entwickelt es in eurer eigenen Form weiter, wobei ihr die Ansätze und Werkzeuge sowie die poetischen und ästhetischen Grundlagen reflektiert. <br/>
+<i>Präsentation 11.5. am Morgen </i>
 
 
 ### Artists
 * Vera Molnar
+* Georg Ness
+* Katherine Nash
+* Michael A. Knoll
+* Lillian Schwartz
 * Kenneth Knowlton
 * John Whitney
 * ... zu ergänzen
@@ -22,10 +26,10 @@ Kürzt dieses Statement, bringt es in Stichworte oder wählt einen Auszug von 10
 <i>Abgabe: 30.5. spätestens Mitternacht </i> <br/>
 
 ## Abgaben 
-Eine Website, die eure Prozessgalerie zeigt und das theoretische Statement integriert, sowie Sprint 1 und eine Seite zur Browsererweiterung <a href="https://www.abstractbrowsing.net/" target="_blank">(Beispiel)</a>. <br/>
+Eine Website, die eure Prozessgalerie zeigt und das schriftliche Statement integriert, sowie Sprint 1 und eine Seite zur Browsererweiterung <a href="https://www.abstractbrowsing.net/" target="_blank">(Beispiel)</a>. <br/>
 <i>Abschlusspräsentation 5.6. </i> <br/>
 
-Ein ausgedrucktes Weltformat Poster für die Schlusspräsentation, das eure Arbeit in verdichteter Form mit Text und Bild darstellt. <br/>
+Ein ausgedrucktes Weltformat-Poster für die Schlusspräsentation, das eure Arbeit in verdichteter Form mit Text und Bild darstellt. <br/>
 <i>Druck 1./2.6., Abschlusspräsentation 5.6. </i> <br/>
 
 
