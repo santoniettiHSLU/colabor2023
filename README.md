@@ -1,4 +1,6 @@
 # Colabor2023
+## Live Agenda
+
 
 ## Briefing 
 ## Vorprojekt :computer: :game_die: 
@@ -22,10 +24,11 @@ Kürzt dieses Statement, bringt es in Stichworte oder wählt einen Auszug von 10
 <i>Abgabe: 30.5. spätestens Mitternacht </i> <br/>
 
 ## Abgaben 
+1. Veröfffentlichte Browser Erweiterung. <br/>
 Eine Website, die eure Prozessgalerie zeigt und das theoretische Statement integriert, sowie Sprint 1 und eine Seite zur Browsererweiterung <a href="https://www.abstractbrowsing.net/" target="_blank">(Beispiel)</a>. <br/>
-<i>Abschlusspräsentation 5.6. </i> <br/>
+<i>Abschlusspräsentation  5.6. </i> <br/>
 
-Ein ausgedrucktes Weltformat Poster für die Schlusspräsentation, das eure Arbeit in verdichteter Form mit Text und Bild darstellt. <br/>
+3. Ein ausgedrucktes Weltformat Poster für die Schlusspräsentation, das eure Arbeit in verdichteter Form mit Text und Bild darstellt. <br/>
 <i>Druck 1./2.6., Abschlusspräsentation 5.6. </i> <br/>
 
 
