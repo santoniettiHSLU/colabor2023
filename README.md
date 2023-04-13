@@ -5,22 +5,14 @@
 ## Live Agenda
 <a href="https://docs.google.com/spreadsheets/d/1hHPUcmmxsybYDI1_6r7nv_hVpV81eu1qJuDJ2n4ghBs/edit?usp=sharing" target="_blank">Link zu Agenda (Check for Updates)</a>
 
-## Briefing 
+## Sharepoint 
+<a href="https://hsluzern.sharepoint.com/sites/dk_co-creative-codingtarget="_blank">Link zur Plattform</a>
+
+# Briefing 
 ## Vorprojekt :computer: :game_die: 
 In der erste Phase (10 Tage) werden wir frühe Computerkunst studieren und diese Werke mit p5.js und Webtechnologien nachbilden, um ästhetische, analytische und technische Kenntnisse zu erwerben. 
 Ihr wählt und untersucht in Gruppen ein Werk und entwerft dieses dann von Grund auf neu und entwickelt es in eurer eigenen Form weiter, wobei ihr die Ansätze und Werkzeuge sowie die poetischen und ästhetischen Grundlagen reflektiert. <br/>
 <i>Präsentation 11.5. am Morgen </i>
-
-
-### Artists
-* Vera Molnar
-* Georg Nees
-* Katherine Nash
-* Michael A. Knoll
-* Lillian Schwartz
-* Kenneth Knowlton
-* John Whitney
-* ... zu ergänzen
 
 
 ## Modulaufgabe :eyeglasses: :globe_with_meridians:
@@ -39,27 +31,16 @@ Ein ausgedrucktes Weltformat-Poster für die Schlusspräsentation, das eure Arbe
 <i>Druck 1./2.6., Abschlusspräsentation 5.6. </i> <br/>
 
 
-
-
-
-### Artists
-* Mark Napier, https://www.potatoland.org/, https://potatoland.org/shredder/
-* Rafael Rosendaal, https://www.abstractbrowsing.net/ , https://www.newrafael.com/
-* Jason Salavon
-* Jodi
-* ... zu ergänzen
-
-
 ## Bewertungskriterien 
 
-Gesamtkonzept, inhaltliche Tiefe, Grad der Reflexion, Originalität des Ansatzes (Modulprojekt Browsererweiterung und schriftliches Statement)<br/><br/>
+Gesamtkonzept, inhaltliche Tiefe, Grad der Reflexion, Originalität des Ansatzes (Modulprojekt Browsererweiterung und schriftliches Statement)<br/>
 
-Eigenständigkeit bei gestalterischer und technischer Umsetzung und gestalterische sowie technische Qualität des Resultats (Sprint 1, individuelle Übungsrepos, Modulprojekt Browsererweiterung) – doppelt gewichtet<br/><br/>
+Eigenständigkeit bei gestalterischer und technischer Umsetzung und gestalterische sowie technische Qualität des Resultats (Sprint 1, individuelle Übungsrepos, Modulprojekt Browsererweiterung) – doppelt gewichtet<br/>
 
-Recherche und Entwurfsprozess, Exploration des Mediums (Sprint 1, individuelle Übungsrepos, Modulprojekt Browsererweiterung)<br/><br/>
+Recherche und Entwurfsprozess, Exploration des Mediums (Sprint 1, individuelle Übungsrepos, Modulprojekt Browsererweiterung)<br/>
 
 Aktive Teilnahme, mündliche Präsentationen, Feedback an Peers, Zusammenarbeit und Beiträge
-<br/><br/>
+<br/>
 
 
 
