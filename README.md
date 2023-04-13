@@ -32,7 +32,7 @@ Kürzt dieses Statement, bringt es in Stichworte oder wählt einen Auszug von 10
 Eine Website, die eure Prozessgalerie zeigt und das theoretische Statement integriert, sowie Sprint 1 und eine Seite zur Browsererweiterung <a href="https://www.abstractbrowsing.net/" target="_blank">(Beispiel)</a>. <br/>
 <i>Abschlusspräsentation 5.6. </i> <br/>
 
-3. Ein ausgedrucktes Weltformat-Poster für die Schlusspräsentation, das eure Arbeit in verdichteter Form mit Text und Bild darstellt. <br/>
+Ein ausgedrucktes Weltformat-Poster für die Schlusspräsentation, das eure Arbeit in verdichteter Form mit Text und Bild darstellt. <br/>
 <i>Druck 1./2.6., Abschlusspräsentation 5.6. </i> <br/>
 
 
@@ -47,8 +47,16 @@ Eine Website, die eure Prozessgalerie zeigt und das theoretische Statement integ
 * ... zu ergänzen
 
 
+## Bewertungskriterien 
 
+Gesamtkonzept, inhaltliche Tiefe, Grad der Reflexion, Originalität des Ansatzes (Modulprojekt Browsererweiterung und schriftliches Statement)<br/><br/>
 
+Eigenständigkeit bei gestalterischer und technischer Umsetzung und gestalterische sowie technische Qualität des Resultats (Sprint 1, individuelle Übungsrepos, Modulprojekt Browsererweiterung) – doppelt gewichtet<br/><br/>
+
+Recherche und Entwurfsprozess, Exploration des Mediums (Sprint 1, individuelle Übungsrepos, Modulprojekt Browsererweiterung)<br/><br/>
+
+Aktive Teilnahme, mündliche Präsentationen, Feedback an Peers, Zusammenarbeit und Beiträge
+<br/><br/>
 
 
 
