@@ -1,6 +1,9 @@
 # Colabor2023
-## Live Agenda
+9:05 – 11:25 und 12:50 – 15:10  <br/>
+745 116 1. OG
 
+## Live Agenda
+<a href="https://docs.google.com/spreadsheets/d/1hHPUcmmxsybYDI1_6r7nv_hVpV81eu1qJuDJ2n4ghBs/edit?usp=sharing" target="_blank">Link zu Agenda (Check for Updates)</a>
 
 ## Briefing 
 ## Vorprojekt :computer: :game_die: 
