@@ -30,6 +30,8 @@
 ## Themen
 Pattern, Pixel, Rules, Algorithmen 
 * http://recodeproject.com/
+* https://whitney.org/exhibitions/programmed
+
 
 ## Ressourcen
 ### Start
@@ -50,27 +52,32 @@ Pattern, Pixel, Rules, Algorithmen
 * Coding Math Tutorials: https://www.youtube.com/user/codingma
 * Sinus und Cosinus visuell: https://setosa.io/ev/sine-and-cosine/
 * Oscillation: https://ffd8.github.io/oscillation-sandbox/
+* http://victorjs.org/ Vektoren Berechnungen
 
 
-## Muster und Algorithmen erkennen
+## Verhältnis von Sprache und Bild, Muster und Algorithmen erkennen
 * Sol Lewitt: https://solvingsol.com/
-* Pseudo Programmiersprache: https://de.wikipedia.org/wiki/Pseudocode, https://editor.p5js.org/cs4all/sketches/Q-wzh3UAT, https://studyflix.de/informatik/pseudo-code-und-struktogramme-830  
-* Truchet Tiles: https://en.wikipedia.org/wiki/Truchet_tiles
+
+
 * Annie Albers <br/>
 <img src="annie.png" width="600" />
+* Bridget Riley <br/>
+<img src="bridget_riley.jpg" width="600" />
 * Vera Molnar 
 <br/>
 <img src="molnar.jpg" width="600" />
 * John Maeda
 <br/>
-<img src="john-maeda-11.jpeg" width="400" />
-* Lilian F. Schwartz
+<img src="john-maeda-11.jpeg" width="600" />
+* Zdenek Sykora
 <br/>
-<img src="LilianF-Schwartz.jpg" width="600" />
+<img src="Zdenek-Sykora.jpg" width="600" />
 * John Whitney, https://www.youtube.com/watch?v=TbV7loKp69s
 <br/>
 <img src="whitney.jpg" width="600" />
-
+* Casey Reas, https://vimeo.com/22063474
+<br/>
+<img src="reas_compendium_b_p_2.jpeg" width="600" />
 
 
 # p5.js Intro

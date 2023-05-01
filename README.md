@@ -8,6 +8,12 @@ Raum: 745 116 1. OG
 ## Sharepoint :books:
 <a href="https://hsluzern.sharepoint.com/sites/dk_co-creative-coding" target="_blank">Link zur Plattform</a>
 
+## HUB Ausschreibung
+https://lets-meet.org/events/colabor
+
+## Salon
+https://www.hslu.ch/de-ch/design-kunst/studium/interdisziplinaere-module/colabor/salon-colabor-2023/
+
 *** 
 # Coding Inputs
 
@@ -46,6 +52,7 @@ Recherche und Entwurfsprozess, Exploration des Mediums (Sprint 1, individuelle �
 
 Aktive Teilnahme, mündliche Präsentationen, Feedback an Peers, Zusammenarbeit und Beiträge
 <br/>
+80% Anwesenheit
 
 
 
