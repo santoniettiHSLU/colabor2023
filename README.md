@@ -17,6 +17,7 @@ https://www.hslu.ch/de-ch/design-kunst/studium/interdisziplinaere-module/colabor
 *** 
 
 # Coding Inputs
+<a href="https://github.com/digitalideation/colabor2023/blob/main/20230504/programm.md">4. Mai </a>
 
 *** 
 
