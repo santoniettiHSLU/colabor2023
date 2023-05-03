@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.js"></script>
+    
+</head>
+
+<body>
+
+    <script>
+        let gridCol=40;
+        let gridRow=20;
+        let rasterbreite;
+        let rasterhoehe;
+        let maxRandom;
+        let maxdicke=15;
+
+        function setup() {
+            createCanvas(windowWidth, windowHeight);
+            rasterbreite=width/gridCol;
+            rasterhoehe=height/gridRow;
+            maxRandom=rasterbreite * 1.5; //1/3 der Breite des Rapports
+
+            //noLoop();
+        }
+
+        function draw() {
+            background(255);
+            randomSeed(2);
+            //wie zeichne ich die diagonalen  
+                //einfacher loop
+                //doppelter loop
+
+                for(let x=0;x<width;x=x+rasterbreite){
+                    for(let y=0;y<height;y=y+rasterhoehe){
+
+                        //element zeichnen 
+                        //randomness 
+                        let randX;
+                       
+                        //strichdicke
+                        let dicke;
+                        if(x<mouseX){
+                             dicke = map(x,0,mouseX,1,maxdicke);
+                             
+                             randX=map(x,0,mouseX,5,maxRandom);
+                             randX=random(randX);
+                        }else{
+                            dicke = map(x,mouseX, width,maxdicke,1);
+                            randX=map(x,mouseX,width, maxRandom, 5);
+                            randX=random(randX);
+                        }
+                        
+                        //dicke= -0.1 * pow((x/100-width/2/100), 2) + 5;
+                        
+                        strokeWeight(dicke);
+                        
+                       if(int(random(2)) == 0){
+                        line(x+rasterbreite-randX, y, x, y+rasterhoehe)
+                        }else{
+                            line(x+rasterbreite, y, x+randX, y+rasterhoehe)
+                        }
+                        
+
+                    }
+                }
+
+            //wie integriere ich den zufall?
+
+            //wie passe ich die liniendicken an?
+                //ist das eine lineare progression? map function?
+                //ist es eine exponentielle progression? https://www.youtube.com/watch?v=zLh0K1PdUbc&list=PL7wAPgl1JVvVJabcmRyEwg8k9rFxCRU9x
+
+           
+
+            //wie kann ich die arbeit weiterentwickeln? z.Bsp. Interaktion integrieren?
+
+        }
+
+    </script>
+</body>
+
+</html>
