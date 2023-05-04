@@ -12,6 +12,8 @@
 *** 
 
 ## Artists
+* http://dada.compart-bremen.de/
+* https://whitney.org/exhibitions/programmed
 * Georg Nees
 * Frieder Nake
 * Manfred Mohr
@@ -29,11 +31,8 @@
 * Victor Vaserely
 * ... 
 
-## Themen
-Pattern, Pixel, Rules, Algorithmen 
-* https://rtp.media.mit.edu/
-* https://whitney.org/exhibitions/programmed
-
+## Recreate
+https://rtp.media.mit.edu/
 
 ## Ressourcen
 ### Start
@@ -45,7 +44,6 @@ Pattern, Pixel, Rules, Algorithmen
 * https://github.com/mattdesl/workshop-p5-intro 
 * http://www.generative-gestaltung.de/2/
 * https://generativeartistry.com/tutorials/
-* https://github.com/ofZach/RTP_SFPC_SUMMER20
 * http://openhumanitiespress.org/books/download/Soon-Cox_2020_Aesthetic-Programming.pdf
 * More Ressources, Books, Tutorials: https://github.com/terkelg/awesome-creative-coding#books
 
@@ -56,10 +54,6 @@ Pattern, Pixel, Rules, Algorithmen
 * Visualisierung von mathematischen Funktionen https://www.desmos.com/calculator/zukjgk9iry
 * Oscillation: https://ffd8.github.io/oscillation-sandbox/
 * http://victorjs.org/ Vektoren Berechnungen
-
-
-## Verhältnis von Sprache und Bild, Muster und Algorithmen erkennen
-* Sol Lewitt: https://solvingsol.com/
 
 
 * Annie Albers <br/>
@@ -91,5 +85,5 @@ Pattern, Pixel, Rules, Algorithmen
 * <a href="loop.md">Einfache Loops, Nested Loops</a>
 * <a href="arrays.md">Arrays </a>
 * <a href="github.md">Struktur Website, Github</a>
-* <a href="exercise.md">Exercise Pattern between order and disorder</a>
+* <a href="exerciseMolnar.md">Exercise Pattern between order and disorder</a>
 * <a href="p5SharingPot.md">More Exercises and Sharing</a>
