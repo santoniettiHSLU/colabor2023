@@ -1,4 +1,5 @@
 # TO DO:
+* present yourself and myself and hubs 
 * Installing necessary software
     - Firefox
     - Visual Studio Code 
