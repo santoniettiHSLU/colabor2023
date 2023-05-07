@@ -1,5 +1,5 @@
 # Colabor2023 :boom: :fire:
-Zeiten: 9:05 – 11:25 und 12:50 – 15:10  <br/>
+Zeiten: 9:15 – 11:40 und 12:50 – 15:10  <br/>
 Raum: 745 116 1. OG
 
 ## Live Agenda :calendar:
@@ -15,7 +15,9 @@ https://lets-meet.org/events/colabor
 https://www.hslu.ch/de-ch/design-kunst/studium/interdisziplinaere-module/colabor/salon-colabor-2023/
 
 *** 
+
 # Coding Inputs
+<a href="https://github.com/digitalideation/colabor2023/blob/main/20230504/programm.md">4. Mai </a>
 
 *** 
 

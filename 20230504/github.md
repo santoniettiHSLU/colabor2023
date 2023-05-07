@@ -5,7 +5,7 @@
 * https://ida2022.netlify.app/
 * https://annakleger.netlify.app/
 
-Wichtig, alle Bilder, alle Files, alle Fonts – kurzum alle Ressourcen, die Teil eurer Prozess Seite sind, gehören in eine übergeordnete Folderstruktur. D
+Wichtig, alle Bilder, alle Files, alle Fonts – kurzum alle Ressourcen, die Teil eurer Prozess Seite sind, gehören in eine übergeordnete Folderstruktur. 
 ```
 colaborprozess_hanna 
 │   index.html (diese Seite wird angezeigt, von hier wird alles verlinkt)
