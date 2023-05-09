@@ -45,9 +45,7 @@ name |  Name der Erweiterung. Dieser wird verwendet, um die Erweiterung in der B
 version |  Die Versionszeichenfolge besteht aus 1 bis 4 Zahlen, die durch Punkte getrennt sind, beachte, hier handelt es sich um die Version deiner spezifischen Erweiterung, nicht um die Version des manifests.  | 
 content_scripts |  Weist den Browser an, Inhaltsskripte (JS, CSS) in Webseiten zu laden, deren URL einem bestimmten Muster (matches) entspricht. <a href="https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/content_scripts" target="_blank"> Detail</a> | 
 icons |  Der Icons Eintrag gibt Icons für deine Erweiterung an. Diese Icons werden verwendet, um die Erweiterung in Komponenten wie dem Add-ons Manager darzustellen.  | 
-browser_action |  Eine Browseraktion ist eine Schaltfläche, die Ihre Erweiterung der Symbolleiste des Browsers hinzufügt. Die Schaltfläche hat ein Symbol und kann optional ein Popup haben, dessen Inhalt mit HTML, CSS und JavaScript festgelegt wird.
-
-Dieser Schlüssel wird in Manifest V3-Erweiterungen durch action ersetzt.| 
+browser_action |  Eine Browseraktion ist eine Schaltfläche, die Ihre Erweiterung der Symbolleiste des Browsers hinzufügt. Die Schaltfläche hat ein Symbol und kann optional ein Popup haben, dessen Inhalt mit HTML, CSS und JavaScript festgelegt wird. Dieser Schlüssel wird in Manifest V3-Erweiterungen durch action ersetzt.| 
 
 ```js
 //replace.js

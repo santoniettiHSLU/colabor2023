@@ -27,7 +27,9 @@ https://www.hslu.ch/de-ch/design-kunst/studium/interdisziplinaere-module/colabor
 ## Vorprojekt :computer: :game_die: 
 In der erste Phase (10 Tage) werden wir frühe Computerkunst studieren und diese Werke mit p5.js und Webtechnologien nachbilden, um ästhetische, analytische und technische Kenntnisse zu erwerben. 
 Ihr wählt und untersucht in Gruppen ein Werk und entwerft dieses dann von Grund auf neu und entwickelt es in eurer eigenen Form weiter, wobei ihr die Ansätze und Werkzeuge sowie die poetischen und ästhetischen Grundlagen reflektiert. Jede Person in der Gruppe erstellt ihre eigene Variation dieses Werks. <br/>
-<i>Präsentation 11.5. am Morgen </i>
+<i>Präsentation/Austausch 11.5. am Morgen </i><br/>
+<i>In der Präsentation gebt ihr Einblick in eure Motivation, dieses Werk auszuwählen, in die Rekonstruktion und in eure Weiterentwicklung, Fragen, Überlegungen. Dazu gehören inhaltliche Aspekte und Einblick in Code/Algorithmen. Jede Person in der Gruppe präsentiert einen Teilbereich. Pro Gruppe max. 10 Minuten. <br/>
+Denkt euch diese erste Zwischenpräsentation mehr als eine Gelegenheit zum Austausch/Teilen innerhalb der Klasse. Interessante Fragen und Diskussionsbeiträge, Darstellung des Vorgehens sind wichtig. </i>
 
 
 ## Modulaufgabe :eyeglasses: :globe_with_meridians:

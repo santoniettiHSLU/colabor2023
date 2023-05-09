@@ -2,7 +2,7 @@
 ## Erklärungen zum Pixel Array 
 <a href="https://docs.google.com/presentation/d/104VbNZyDklRJWsJmG86VUrvtpTb2S4PbhuwkliPYxVI/edit?usp=sharing" target="_blank">Slides </a>
 
-## Some Artwork
+
 <img src="Kenneth_Knowlton-scaled.jpg" width="500" />
 <br/>
 Kenneth C. Knowlton <br/>
@@ -17,6 +17,8 @@ Joan Truckenbrod, on becoming<br/><br/>
 <img src="../HUB_20230510/DavidSzauder.png" width="500" />
 <br/>
 David Szauder, http://www.davidarielszauder.com/failed/eoc1leu40l2tb4f6mdbxpd9a9seoi6 <br/>
+
+***
 
 ## Exercise 1 Manipulate Pixels
 <a href="cindy-small.jpg">Testbild laden</a>
