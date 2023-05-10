@@ -54,6 +54,7 @@ https://rtp.media.mit.edu/
 * Visualisierung von mathematischen Funktionen https://www.desmos.com/calculator/zukjgk9iry
 * Oscillation: https://ffd8.github.io/oscillation-sandbox/
 * http://victorjs.org/ Vektoren Berechnungen
+* https://easings.net/  CSS Easing Functions in JavaScript
 
 
 * Annie Albers <br/>
