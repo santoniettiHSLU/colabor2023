@@ -1,11 +1,13 @@
 # Löchrige Bilder 
+<a href="https://github.com/digitalideation/colabor2023/blob/main/HUB_20230510/2010_Original_Rosa-Menkman-Glitch-Studies-Manifesto.pdf" target="_blank">
+Glitch Manifesto, Rosa Menkman</a><br/><br/>
 
 ## Glitches, Kompression 
 <img src="jpeginyourbrain.png" width="500" />
 <br/>
 Quelle: https://ucnv.org/jpegsinyourbrain/ <br/><br/>
 
-Arbeite durch <a href="Sonification_&_databending_RAW_files.pdf" target="_blank">das Tutorial von Rosa Menkmann</a>. Darin zeigt sie, wie man Bilder als Raw Data speichert, mit einem Sound Algorithmus komprimiert und wieder als Bild öffnet. 
+Arbeite durch <a href="Sonification_&_databending_RAW_files.pdf" target="_blank">das Tutorial von Rosa Menkman</a>. Darin zeigt sie, wie man Bilder als Raw Data speichert, mit einem Sound Algorithmus komprimiert und wieder als Bild öffnet. 
 
 ### Tools Glitching
 * https://snorpey.github.io/jpg-glitch/ Quellcode: https://github.com/snorpey/jpg-glitch
