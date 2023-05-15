@@ -17,7 +17,10 @@ https://www.hslu.ch/de-ch/design-kunst/studium/interdisziplinaere-module/colabor
 *** 
 
 # Coding Inputs
-<a href="https://github.com/digitalideation/colabor2023/blob/main/20230504/programm.md">4. Mai </a>
+<a href="https://github.com/digitalideation/colabor2023/blob/main/20230504/programm.md">4. Mai, Loops, Variablen, Recreate Molnar, Deploy Github </a> <br/>
+<a href="https://github.com/digitalideation/colabor2023/blob/main/20230509/programm.md">9. Mai, Pixel Array </a><br/>
+<a href="https://github.com/digitalideation/colabor2023/blob/main/20230515/programm.md">15. Mai, DOM Manipulation, Website Scrambler </a><br/>
+
 
 *** 
 
@@ -25,7 +28,9 @@ https://www.hslu.ch/de-ch/design-kunst/studium/interdisziplinaere-module/colabor
 ## Vorprojekt :computer: :game_die: 
 In der erste Phase (10 Tage) werden wir frühe Computerkunst studieren und diese Werke mit p5.js und Webtechnologien nachbilden, um ästhetische, analytische und technische Kenntnisse zu erwerben. 
 Ihr wählt und untersucht in Gruppen ein Werk und entwerft dieses dann von Grund auf neu und entwickelt es in eurer eigenen Form weiter, wobei ihr die Ansätze und Werkzeuge sowie die poetischen und ästhetischen Grundlagen reflektiert. Jede Person in der Gruppe erstellt ihre eigene Variation dieses Werks. <br/>
-<i>Präsentation 11.5. am Morgen </i>
+<i>Präsentation/Austausch 11.5. am Morgen </i><br/>
+<i>In der Präsentation gebt ihr Einblick in eure Motivation, dieses Werk auszuwählen, in die Rekonstruktion und in eure Weiterentwicklung, Fragen, Überlegungen. Dazu gehören inhaltliche Aspekte und Einblick in Code/Algorithmen. Jede Person in der Gruppe präsentiert einen Teilbereich. Pro Gruppe max. 10 Minuten. <br/>
+Denkt euch diese erste Zwischenpräsentation mehr als eine Gelegenheit zum Austausch/Teilen innerhalb der Klasse. Interessante Fragen und Diskussionsbeiträge, Darstellung des Vorgehens sind wichtig. </i>
 
 
 ## Modulaufgabe :eyeglasses: :globe_with_meridians:
@@ -56,6 +61,58 @@ Aktive Teilnahme, mündliche Präsentationen, Feedback an Peers, Zusammenarbeit 
 <br/>
 80% Anwesenheit
 
+*** 
+
+# Repos Studierende
+
+## Berger Anuschka
+https://github.com/anuschkaberger/colaborprozess_janasanu/tree/main
+
+## Clematide Paula Penelope
+https://paulaclematideprozess.netlify.app/website/ <br/>
+https://github.com/paulapenelope/colaborprozess_paulaclematide
+
+## Gmünder Melanie, Antonietti Sandro Lucas
+https://github.com/gmume/COLAB_sprint1 <br/>
+https://main--serene-puffpuff-29156b.netlify.app/
+
+## Hänni Timo
+https://github.com/timhaen/colaborprozess_timo <br/>
+https://colaborprozesstimo.netlify.app/
+
+## Helfenstein Lena Rebecca
+https://github.com/LeeniBeeni/colaborprozess_LeeniBeeni <br/>
+https://leenibeeni.netlify.app/
+
+## Kovatsch Timm Manuel
+## Milczarek Jan
+## Mistretta Sergio
+## Mokus Joël
+## Müller Luc
+
+## Oberholzer Omar, Abderhalden, Jessica
+https://omaroberholzer.com/creativeCoding/sprint1/ <br/>
+https://github.com/Zytronik/creativeCoding/tree/main/sprint1
+
+## Räz Michèle Stephanie
+https://micheleraez.netlify.app/  <br/>
+https://github.com/micheleraez/colaborprozess_micheleraez
+
+## Renggli Vanessa Angela
+https://github.com/vanessarenggli/colaborprozess_Vanessa/tree/main <br/>
+https://colaborprozess-vanessa.netlify.app/
+
+
+## Ruf Tim
+
+## Schaad Thomas
+https://colaborprozess-thomas.netlify.app/ <br/>
+https://github.com/thomas-schaad/colaborprozess_thomas/tree/main
+
+
+## Sorokoumova Anastasia
+
+## Wittmann Dennis Nicolas
 
 
 
