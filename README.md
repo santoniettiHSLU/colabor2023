@@ -20,6 +20,7 @@ https://www.hslu.ch/de-ch/design-kunst/studium/interdisziplinaere-module/colabor
 <a href="https://github.com/digitalideation/colabor2023/blob/main/20230504/programm.md">4. Mai, Loops, Variablen, Recreate Molnar, Deploy Github </a> <br/>
 <a href="https://github.com/digitalideation/colabor2023/blob/main/20230509/programm.md">9. Mai, Pixel Array </a><br/>
 <a href="https://github.com/digitalideation/colabor2023/blob/main/20230515/programm.md">15. Mai, DOM Manipulation, Website Scrambler </a><br/>
+<a href="https://github.com/digitalideation/colabor2023/blob/main/20230516/programm.md">16. Mai, Javascript Object, Architektur Browser Exension </a><br/>
 
 
 *** 

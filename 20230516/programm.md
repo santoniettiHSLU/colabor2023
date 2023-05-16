@@ -1,4 +1,11 @@
-# Mozilla Repository Extension Examples
+# Inhalte
+* Datentyp Objekt
+* Architektur und Aufgaben der Bestandteile einer Web Extension
+* Beispiel Mauspositionen speichern
+
+*** 
+
+## Mozilla Repository Extension Examples
 https://github.com/mdn/webextensions-examples
 
 # Datentypen
