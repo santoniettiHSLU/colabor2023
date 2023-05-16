@@ -131,6 +131,9 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Content_s
 ## Second Extension
 <a href="BoilerplateStoreMousePos.zip" target="_blank">Boilerplate Mauspositionen speichern</a> :round_pushpin:
 
+## Third Extension
+<a href="BoilerplateStorage.zip" target="_blank">Boilerplate Screenshots speichern</a> :round_pushpin:
+
 ## Examples, Tutorials
 * https://www.youtube.com/watch?v=Q3AQ5D2QFwc (Einfaches Tutorial, das zeigt, wie über ein Pop-Up eine CSS Property gesetzt und im Storage gespeichert/geladen wird)
 * https://github.com/mdn/webextensions-examples/ Github Repo mit vielen Beispielen
