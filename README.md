@@ -66,7 +66,7 @@ Aktive Teilnahme, mündliche Präsentationen, Feedback an Peers, Zusammenarbeit 
 
 # Repos Studierende
 
-## Berger Anuschka
+## Berger Anuschka, Sorokoumova Anastasia, Milczarek Jan
 https://github.com/anuschkaberger/colaborprozess_janasanu/tree/main
 
 ## Clematide Paula Penelope
@@ -86,7 +86,7 @@ https://github.com/LeeniBeeni/colaborprozess_LeeniBeeni <br/>
 https://leenibeeni.netlify.app/
 
 ## Kovatsch Timm Manuel
-## Milczarek Jan
+
 ## Mistretta Sergio
 ## Mokus Joël
 ## Müller Luc
@@ -110,8 +110,6 @@ https://colaborprozess-vanessa.netlify.app/
 https://colaborprozess-thomas.netlify.app/ <br/>
 https://github.com/thomas-schaad/colaborprozess_thomas/tree/main
 
-
-## Sorokoumova Anastasia
 
 ## Wittmann Dennis Nicolas
 
