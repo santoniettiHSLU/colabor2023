@@ -20,6 +20,7 @@ https://www.hslu.ch/de-ch/design-kunst/studium/interdisziplinaere-module/colabor
 <a href="https://github.com/digitalideation/colabor2023/blob/main/20230504/programm.md">4. Mai, Loops, Variablen, Recreate Molnar, Deploy Github </a> <br/>
 <a href="https://github.com/digitalideation/colabor2023/blob/main/20230509/programm.md">9. Mai, Pixel Array </a><br/>
 <a href="https://github.com/digitalideation/colabor2023/blob/main/20230515/programm.md">15. Mai, DOM Manipulation, Website Scrambler </a><br/>
+<a href="https://github.com/digitalideation/colabor2023/blob/main/20230516/programm.md">16. Mai, Javascript Object, Architektur Browser Exension </a><br/>
 
 
 *** 
@@ -65,7 +66,7 @@ Aktive Teilnahme, mündliche Präsentationen, Feedback an Peers, Zusammenarbeit 
 
 # Repos Studierende
 
-## Berger Anuschka
+## Berger Anuschka, Sorokoumova Anastasia, Milczarek Jan
 https://github.com/anuschkaberger/colaborprozess_janasanu/tree/main
 
 ## Clematide Paula Penelope
@@ -85,7 +86,7 @@ https://github.com/LeeniBeeni/colaborprozess_LeeniBeeni <br/>
 https://leenibeeni.netlify.app/
 
 ## Kovatsch Timm Manuel
-## Milczarek Jan
+
 ## Mistretta Sergio
 ## Mokus Joël
 ## Müller Luc
@@ -109,8 +110,6 @@ https://colaborprozess-vanessa.netlify.app/
 https://colaborprozess-thomas.netlify.app/ <br/>
 https://github.com/thomas-schaad/colaborprozess_thomas/tree/main
 
-
-## Sorokoumova Anastasia
 
 ## Wittmann Dennis Nicolas
 
