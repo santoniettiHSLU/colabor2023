@@ -1,3 +1,10 @@
+let rect_pos ={
+  x:500,
+  y:500,
+  w:100,
+  h:100
+}
+
 const s = function (p5) {
   // variable should be initialized using the p5. namespace
   p5.my_array = []
@@ -33,7 +40,7 @@ const s = function (p5) {
     p5.strokeWeight(10)
     p5.rect(10, 10, p5.width - 10, p5.height - 10)
     p5.fill(255, 0, 0)
-    p5.rect(p5.width / 2, p5.height / 2, 100, 100)
+    p5.rect(rect_pos.x, rect_pos.y, rect_pos.w, rect_pos.h)
   }
 
   p5.windowResized = function () {
@@ -49,4 +56,15 @@ console.log('sketch loaded');
 window.onclick = e => {
   console.log(e.target);  // to get the element
   console.log(e.target.tagName);  // to get the element tag name alone
+  // get element position on the screen
+  let element_pos = e.target.getBoundingClientRect()  // to get the element position
+  rect_pos.x = element_pos.x
+  rect_pos.y = element_pos.y
+  rect_pos.w = element_pos.width
+  rect_pos.h = element_pos.height
+  // get text 
+  let html_txt = e.target.textContent
+  console.log(html_txt);
+  // change css
+  e.target.setAttribute('style', 'background-color: #ff0000,  color: #ffffff')
 } 
