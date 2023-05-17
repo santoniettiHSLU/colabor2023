@@ -38,14 +38,13 @@ function draw() {
 
 
   index  =  index % limit
-
   for (let i = 0; i < mx.length; i++) {
     index = (index + i) % limit 
-    let x = mx[index];
-    let y = my[index];
+    // let x = mx[index];
+    // let y = my[index];
     // try also the code below
-    // let x = mx[i];
-    // let y = my[i];
+    let x = mx[i];
+    let y = my[i];
     let d = dist(x, y, width / 2, height / 2)
 
     let rotx = map(x, 0, width, 0, TWO_PI)
@@ -59,21 +58,6 @@ function draw() {
     box(sizex, sizey, 100)
     pop()
   }
-  // let x = mx[index];
-  // let y = my[index];
-  // let d = dist(x, y, width / 2, height / 2)
-  
-  // let rotx = map(x, 0, width, 0, TWO_PI)
-  // let roty = map(y, 0, height, 0, TWO_PI)
-  // let sizex = map(d, 0, width, 10, 400)
-  // let sizey = map(d, 0, height, 10, 300)
-  // push()
-  // translate(0, 0)
-  // rotateX(rotx)
-  // rotateZ(roty)
-  // box(sizex, sizey, 100)
-  // pop()
-  
   index++
   
   // remove first item whe array is too big
