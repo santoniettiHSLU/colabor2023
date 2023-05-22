@@ -29,6 +29,7 @@ const s = function (p5) {
   p5.classifier = null
   p5.objectDetector = null
   p5.faceApi = null
+  p5.sentiment = null
 
   p5.detectionOptions = {
     withLandmarks: true,
@@ -39,11 +40,12 @@ const s = function (p5) {
     console.log(ml5);
     p5.classifier = ml5.imageClassifier('MobileNet');
     p5.faceapi = ml5.faceApi(p5.detectionOptions);
-    console.log('model loaded');
+    console.log('models loaded');
   }
 
   p5.setup = function () {
     p5.objectDetector = ml5.objectDetector('cocossd', {}, modelLoaded);
+    p5.sentiment = ml5.sentiment('movieReviews', modelLoaded);
     p5.noCanvas()
   }
 
@@ -67,7 +69,7 @@ const s = function (p5) {
       if (err) {
         console.log('face api error');
         console.log(err);
-      }else{
+      } else {
         console.log(results);
         // do something with this info
       }
@@ -80,12 +82,19 @@ const s = function (p5) {
       if (err) {
         console.log('object api error');
         console.log(err);
-      }else{
+      } else {
         console.log(results);
         // do something with this info
       }
     });
   }
+
+  p5.sentiment_analysis = function (text) {
+    console.log(text);
+    const prediction  = p5.sentiment.predict(text)
+    console.log(prediction);
+  }
+
 }
 
 const myp5 = new p5(s)
@@ -96,6 +105,19 @@ const myp5 = new p5(s)
 window.onclick = e => {
   // console.log(e.target);  // to get the element
   // console.log(e.target.tagName);  // to get the element tag name alone;
+
+  if(e.target.tagName === 'P'){
+    console.log('passing paragraph to sentiment analyzer');
+    console.log(e.target.innerText);
+    myp5.sentiment_analysis(e.target.innerText)
+  }else{
+    const p = e.target.querySelectorAll('p')
+    console.log(p);
+    // if(p !== null){
+    //   console.log('passing paragraph to sentiment analyzer');
+    //   myp5.sentiment_analysis(p.innerText)
+    // }
+  }
 
   if (e.target.tagName === 'IMG') {
     console.log('passing image to classifier');
